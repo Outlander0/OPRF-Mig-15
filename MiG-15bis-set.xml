@@ -1667,6 +1667,10 @@ increase throttle to 7000 rpm to taxi.
     <MiG_15bis_bombable>
       <file>Aircraft/MiG-15/Nasal/bombable.nas</file>
     </MiG_15bis_bombable>
+
+    <damage>
+      <file>Aircraft/MiG-15/Nasal/damage.nas</file>
+   </damage>
   </nasal>
 
   <orientation>
