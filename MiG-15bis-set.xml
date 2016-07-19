@@ -1671,6 +1671,12 @@ increase throttle to 7000 rpm to taxi.
     <damage>
       <file>Aircraft/MiG-15/Nasal/damage.nas</file>
    </damage>
+    <guns>
+      <file>Aircraft/MiG-15/Nasal/guns.nas</file>
+   </guns>
+   <radar>
+      <file>Aircraft/MiG-15/Nasal/radar2.nas</file>
+   </radar>
   </nasal>
 
   <orientation>
